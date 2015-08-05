@@ -13,4 +13,5 @@ To change VNC password :
 ```
 
 Minimal desktop screenshot :
+
 <img src="https://github.com/besn0847/desktop-mini/raw/master/desktop-mini.png" width=400/>
