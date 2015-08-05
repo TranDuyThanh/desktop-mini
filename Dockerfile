@@ -1,4 +1,5 @@
 FROM ubuntu:15.04
+MAINTAINER Franck Besnard <franck@besnard.mobi>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV HOME /root
