@@ -11,3 +11,6 @@ To change VNC password :
 ```
 [prompt]> x11vnc -storepasswd $PASS /home/default/.x11vnc/passwd
 ```
+
+Minimal desktop screenshot :
+<img src="https://raw.github.com/besn0847/desktop-mini/master/deskop-mini.png" width=400/>
